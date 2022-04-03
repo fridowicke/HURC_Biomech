@@ -124,3 +124,4 @@ void LCD_buffer(uint8_t *buf, uint16_t x, uint16_t y, uint16_t width, uint16_t h
         LCD_dat(buf[pix * 3 + 2]); // Blue
     }
 }
+// test commit
